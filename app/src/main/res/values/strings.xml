@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ProjectAkhir</string>
+
+    <string name="blogin">Log-In</string>
+    <string name="tLogin">LOGIN</string>
+    <string name="label2">Login Berhasil</string>
+    <string name="register">Register</string>
+    <string name="insertname">Masukkan Nama</string>
+    <string name="eeNIK">Masukkan NIK</string>
+    <string name="epass">Masukkan Password</string>
+    <string name="erepass">Masukkan Password Kembali</string>
+    <string name="lihatdata">Lihat Data</string>
+    <string name="editdata">Edit Data</string>
+    <string name="datakontak">Data Kontak</string>
+    <string name="infodata">Informasi Data</string>
+    <string name="nama">Nama</string>
+    <string name="noNIK">NIK</string>
+    <string name="jadwal">Jadwal</string>
+    <string name="welcome">Jadwal Kerja Bakti</string>
+
+</resources>
